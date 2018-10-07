@@ -15,4 +15,10 @@ CSS3 Image generator - outputs css filter styles
 
 CSS3 border generator - outputs style for border shadow
 
+where is Stan Lee
 
+Movie quiz
+
+Resistor App
+
+Timezone compare timezones with clocks
