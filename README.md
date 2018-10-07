@@ -22,3 +22,5 @@ Movie quiz
 Resistor App
 
 Timezone compare timezones with clocks
+
+Recreate kids learning toys
